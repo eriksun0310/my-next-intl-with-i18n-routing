@@ -1,0 +1,16 @@
+{
+  "HomePage": {
+    "title": "歡迎來到首頁",
+    "about": "前往關於我們頁面"
+  },
+  "AboutPage": {
+    "title": "關於我們",
+    "home": "前往首頁"
+  },
+  "common": {
+    "language": "語言",
+    "switchToEnglish": "切換英文",
+    "switchToChinese": "切換中文",
+    "switchToJapanese": "切換日文"
+  }
+}

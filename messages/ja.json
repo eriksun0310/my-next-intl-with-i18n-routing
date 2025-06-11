@@ -1,0 +1,16 @@
+{
+  "HomePage": {
+    "title": "ホームページへようこそ",
+    "about": "アバウトページへ行く"
+  },
+  "AboutPage": {
+    "title": "私たちについて",
+    "home": "ホームページへ行く"
+  },
+  "common": {
+    "language": "言語",
+    "switchToEnglish": "英語に切り替え",
+    "switchToChinese": "中国語に切り替え",
+    "switchToJapanese": "日本語に切り替え"
+  }
+}
