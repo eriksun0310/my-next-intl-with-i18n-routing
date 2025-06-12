@@ -1,12 +1,9 @@
 "use client";
-
-import { useTranslations } from "next-intl";
-import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import React, { ChangeEvent } from "react";
 
 const Navbar = ({ locale }: { locale: string }) => {
-  const t = useTranslations("NavbarLinks");
+
   const pathname = usePathname();
   const router = useRouter();
 
